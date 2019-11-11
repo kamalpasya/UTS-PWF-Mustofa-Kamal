@@ -30,7 +30,7 @@
 				</tr>
 				<tr>
 					<td>Telepon</td>
-					<td><input type="text" name="input_telp" value="<?php echo set_value('input_no_hp'); ?>"></td>
+					<td><input type="text" name="input_no_hp" value="<?php echo set_value('input_no_hp'); ?>"></td>
 				</tr>
 				<tr>
 					<td>Alamat</td>
